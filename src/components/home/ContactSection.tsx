@@ -39,14 +39,14 @@ const ContactSection = () => {
                     <Phone className="h-5 w-5 mr-3 mt-0.5 text-kenya-red" />
                     <div>
                       <p className="font-medium">Phone</p>
-                      <p className="text-gray-600">+254 712 345 678</p>
+                      <p className="text-gray-600">+254 722 259 803</p>
                     </div>
                   </li>
                   <li className="flex items-start">
                     <Mail className="h-5 w-5 mr-3 mt-0.5 text-kenya-red" />
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-gray-600">info@mamanewroad.co.ke</p>
+                      <p className="text-gray-600">info@milkaoenga@gmail.com</p>
                     </div>
                   </li>
                   <li className="flex items-start">
@@ -54,7 +54,7 @@ const ContactSection = () => {
                     <div>
                       <p className="font-medium">Business Hours</p>
                       <p className="text-gray-600">Monday - Saturday: 8:00 AM - 6:00 PM</p>
-                      <p className="text-gray-600">Sunday: Closed</p>
+                      <p className="text-gray-600">Sunday: Closed from 12 noon</p>
                     </div>
                   </li>
                 </ul>

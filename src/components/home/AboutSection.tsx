@@ -21,7 +21,7 @@ const AboutSection = () => {
               About <span className="text-kenya-red">Mama New Road</span> Hardware
             </h2>
             <p className="text-gray-700 mb-6">
-              For over 15 years, Mama New Road Hardware has been serving the Changamwe community and beyond with quality construction materials and hardware supplies. We take pride in offering expert advice, quality products, and excellent customer service.
+              For over 25 years, Mama New Road Hardware has been serving the Changamwe community and beyond with quality construction materials and hardware supplies. We take pride in offering expert advice, quality products, and excellent customer service.
             </p>
             <p className="text-gray-700 mb-6">
               Our friendly staff is always ready to help you find the right materials for your project, whether you're a professional contractor or a DIY enthusiast. We understand the importance of reliable tools and materials, which is why we source our products from trusted suppliers.

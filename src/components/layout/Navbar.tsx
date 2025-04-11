@@ -15,7 +15,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-4">
             <div className="flex items-center text-sm">
               <Phone className="h-3 w-3 mr-1" />
-              <span>+254 712 345 678</span>
+              <span>+254 722 259 803</span>
             </div>
             <div className="hidden md:flex items-center text-sm">
               <MapPin className="h-3 w-3 mr-1" />
@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="text-sm">
-            Open: Mon-Sat 8AM - 6PM
+            Open:Monday - Saturday 8.00 AM Sunday: Closed from 12.00
           </div>
         </div>
       </div>

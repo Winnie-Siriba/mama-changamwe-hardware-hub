@@ -54,15 +54,15 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-kenya-sand" />
-                <span>+254 712 345 678</span>
+                <span>+254 722 259 803</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-kenya-sand" />
-                <span>info@mamanewroad.co.ke</span>
+                <span>info@milkaoenga@gmail.com</span>
               </li>
               <li className="flex items-start">
                 <Clock className="h-5 w-5 mr-2 mt-0.5 text-kenya-sand" />
-                <span>Monday - Saturday: 8:00 AM - 6:00 PM<br />Sunday: Closed</span>
+                <span>Monday - Saturday: 8:00 AM - 6:00 PM<br />Sunday: Closed from 12.00</span>
               </li>
             </ul>
           </div>
