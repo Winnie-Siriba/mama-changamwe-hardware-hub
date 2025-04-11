@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Hardware store custom colors
+				kenya: {
+					red: '#c1432e',
+					sand: '#e4a672',
+					brown: '#5c3a31',
+					green: '#2e7d32',
+					beige: '#f5efe0',
 				}
 			},
 			borderRadius: {
